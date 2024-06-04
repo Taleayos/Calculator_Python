@@ -1,0 +1,11 @@
+2024-05-28 18:54:57,602 INFO Application started
+2024-05-28 18:55:37,487 INFO Trying to solve expression: 30*0
+2024-05-28 18:55:37,488 INFO Success. Expression saved to file history.txt
+2024-05-28 18:55:49,303 INFO Trying to solve expression: 1/0
+2024-05-28 18:55:49,304 INFO Success. Expression saved to file history.txt
+2024-05-28 18:55:57,007 INFO trying to print  grafic. Failed. Incorrect expression
+2024-05-28 18:56:31,583 INFO sin(x)*cos(x) grafic printed
+2024-05-28 18:57:04,527 INFO tan(x) grafic printed
+2024-05-28 18:57:39,687 INFO trying to print e^x grafic. Failed. Incorrect expression
+2024-05-28 18:57:51,991 INFO trying to print 1e^x grafic. Failed. Incorrect expression
+2024-05-28 18:58:04,999 INFO 2.72^x grafic printed
